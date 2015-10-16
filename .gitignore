@@ -4,3 +4,4 @@ buildout.cfg
 bin
 parts
 etc
+develop-eggs/
